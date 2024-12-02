@@ -1,0 +1,25 @@
+.container{
+    margin-top: 150px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 60px;
+    color: #2b7a78;
+}
+
+.form-control{
+    padding: 13px;
+}
+
+
+.btn{
+    background-color: #2b7a78;
+    color: white;
+    padding: 10px;
+}
+
+.btn:hover {
+    background-color: #6a9f9e;
+    color: white;
+}
